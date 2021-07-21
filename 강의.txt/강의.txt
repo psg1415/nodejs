@@ -1,3 +1,0 @@
-Node.js
-  - 자바스크립트 코어(ECMAScript)
-  - Node.js 내장객체
